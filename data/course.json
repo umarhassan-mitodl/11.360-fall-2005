@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "e2119f11-3da0-e638-b163-5592f5c1e18b",
+  "instructors": {
+    "content": [
+      "5ab65d5b-c937-6357-af29-c3839f35a9a8",
+      "e7cf27e5-ed1c-f806-2520-1b0300de7079"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "26ea5167-3e49-273b-ab2b-19286cc23499",
+    "website": "11-360-community-growth-and-land-use-planning-fall-2005"
+  },
+  "course_title": "Community Growth and Land Use Planning",
+  "course_description": "This course combines a seminar format with fieldwork to examine strategies of planning and control for growth and land use, chiefly at the municipal level. Specific topics include growth and its local consequences; land use planning approaches; and implementation tools including innovative zoning and regulatory techniques, physical design, and natural systems integration. Projects are arranged with small teams serving municipal clients.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.360",
+  "course_image_thumbnail": {
+    "content": "eaa74de8-ac14-e9d0-969c-8c2fa91fedb1",
+    "website": "11-360-community-growth-and-land-use-planning-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "09e5fb74-2ba7-4d61-8fe5-d2fb327a19a3",
+  "site_short_id": "11.360-fall-2005",
+  "site_url_path": "courses/11-360-community-growth-and-land-use-planning-fall-2005",
+  "title": "Course Metadata"
+}

@@ -5,6 +5,8 @@ description: This resource contains page 1 to 44 of the project report based on 
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/2e97c50361c720e8d789cfd39a756336_final_report_1.pdf
 file_size: 9904200
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

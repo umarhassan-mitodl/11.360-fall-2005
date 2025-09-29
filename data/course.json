@@ -34,6 +34,7 @@
     "website": "11-360-community-growth-and-land-use-planning-fall-2005"
   },
   "course_title": "Community Growth and Land Use Planning",
+  "hide_download": true,
   "course_description": "This course combines a seminar format with fieldwork to examine strategies of planning and control for growth and land use, chiefly at the municipal level. Specific topics include growth and its local consequences; land use planning approaches; and implementation tools including innovative zoning and regulatory techniques, physical design, and natural systems integration. Projects are arranged with small teams serving municipal clients.\n",
   "department_numbers": [
     "11"
@@ -44,6 +45,7 @@
     "content": "eaa74de8-ac14-e9d0-969c-8c2fa91fedb1",
     "website": "11-360-community-growth-and-land-use-planning-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects"

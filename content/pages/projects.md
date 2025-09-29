@@ -2,6 +2,8 @@
 content_type: page
 description: The projects section contains the projects made by students to analyze
   the Centralville neighborhood in Lowell, MA.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

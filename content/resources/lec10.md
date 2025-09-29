@@ -4,6 +4,8 @@ description: This resource talks of zoning innovation in detail.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/e15250f464d72937bb1d87f404482726_lec10.pdf
 file_size: 519446
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

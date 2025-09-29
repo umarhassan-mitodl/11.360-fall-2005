@@ -5,6 +5,8 @@ description: This resource contains basics of zoning with its history, definitio
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/e950ca11b3cdb9d14724414e653533be_lec5.pdf
 file_size: 1995967
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

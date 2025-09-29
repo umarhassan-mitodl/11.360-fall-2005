@@ -5,6 +5,8 @@ description: This resource contains the project presentation on the topic envisi
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/b4246c0c26fad6654e23da7f1548e992_final_pres.pdf
 file_size: 9008148
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

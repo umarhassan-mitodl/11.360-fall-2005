@@ -4,6 +4,8 @@ description: This resource contains thesis based on form-based coding.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/4dfedd90ef13851c9e1b7f40eba7692c_kohr_thesis.pdf
 file_size: 5764717
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

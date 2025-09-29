@@ -5,6 +5,8 @@ description: This resource contains information on envisioning centralville, and
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/e1da0644d095e19920a12970210c78f9_lec2.pdf
 file_size: 3623716
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

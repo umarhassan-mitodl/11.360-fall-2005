@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/1a0e8f2f089b59ac99a1e510e5071de2_final_report.pdf
 file_size: 4564464
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
